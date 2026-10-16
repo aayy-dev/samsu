@@ -32,9 +32,9 @@ final class PayloadStore {
     static final String BUNDLED_PAYLOAD_ID_R13S = "r13s-S731U1UES7BZF3";
     static final String BUNDLED_KMI = "android15-6.6";
     private static final String REGISTRY_URL =
-            "https://raw.githubusercontent.com/U-rTrDD-fyi/Root-My-Galaxy-Payloads/testing/support/targets-v3.json";
+            "https://raw.githubusercontent.com/aayy-dev/Root-My-Galaxy-Payloads/testing/support/targets-v3.json";
     private static final String RAW_BASE =
-            "https://raw.githubusercontent.com/U-rTrDD-fyi/Root-My-Galaxy-Payloads/testing/";
+            "https://raw.githubusercontent.com/aayy-dev/Root-My-Galaxy-Payloads/testing/";
 
     static final class Profile {
         final String payloadId;
